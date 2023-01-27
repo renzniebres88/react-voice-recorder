@@ -4,7 +4,7 @@
 
 This (react-voice-recorder) is a JavaScript library for React Applicaiton which will be used to record voice as audio and download the same.
 
-# Demo
+# Demos
 
 Checkout the [Demo](https://library-demos.herokuapp.com/react-voice-recorder)
 
